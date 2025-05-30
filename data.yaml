@@ -1,0 +1,6 @@
+train: D:/py_yuge/ultralytics-main/datasets/train/images
+val: D:/py_yuge/ultralytics-main/datasets/val/images
+
+nc: 1
+
+names: ['ship']
